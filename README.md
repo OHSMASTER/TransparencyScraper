@@ -20,7 +20,7 @@ This project is a web scraper built using Python, Selenium, and BeautifulSoup to
 
 ## How to Use
 1. Install dependencies using `pip install -r requirements.txt`.
-2. Run the script with `python scraper.py`.
+2. Run the script with `python TransparencyScraper.py`.
 3. Enter the CPF or name of the person to search.
 4. Choose from the displayed results to extract further details.
 
