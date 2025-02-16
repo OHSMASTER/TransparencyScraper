@@ -22,11 +22,6 @@ This project is a web scraper built using Python, Selenium, and BeautifulSoup to
 ### Prerequisites
 Before you begin, ensure that you have:
 - Python (preferably version 3.6+)
-- All required libraries installed via pip:
-
-  ```bash
-  pip install -r requirements.txt
-  ```
 
 ### Installation and Execution
 
